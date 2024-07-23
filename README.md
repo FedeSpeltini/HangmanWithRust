@@ -15,7 +15,6 @@ This project is a console-based Hangman game implemented in Rust. It allows play
 
 - Rust
 - Cargo
-- Internet connection (if using an API to fetch words)
 
 ## Installation
 
